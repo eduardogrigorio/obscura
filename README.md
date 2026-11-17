@@ -1,3 +1,7 @@
+> 🌐 **Tradução não oficial para português do Brasil.**
+> Todos os créditos ao projeto e aos autores originais: [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (licença Apache 2.0).
+> Em caso de divergência, prevalece o [README original em inglês](https://github.com/h4ckf0r0day/obscura#readme).
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/h4ckf0r0day/obscura/main/assets/icon.png" alt="Obscura" width="80" />
 </p>
