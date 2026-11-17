@@ -6,36 +6,36 @@
   <a href="https://trendshift.io/repositories/25837?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-25837" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/25837/daily" alt="h4ckf0r0day%2Fobscura | Trendshift" width="250" height="55"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/h4ckf0r0day/obscura/tree/main/docs"><img src="https://img.shields.io/badge/Docs-1a1a1a?style=for-the-badge" alt="Documentation" /></a>
-  <a href="https://obscura.sh"><img src="https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE5MCAxNzAgNDIwIDQyMCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNDA2LDE3NS4wMDA0MTIgQzQ0MC40OTg5MzIsMTc1LjAwMDM1MSA0NzQuNDk4MTA4LDE3NS4wODA5OTQgNTA4LjQ5NjczNSwxNzQuOTc1NjYyIEM1MzcuNzMzNjQzLDE3NC44ODUwODYgNTYxLjI3MDY5MSwxODcuMjIwNTUxIDU3OS45Mzk2MzYsMjA4Ljc4NjYyMSBDNTkwLjg0MTA2NCwyMjEuMzc5Nzc2IDU5Ny44ODM1NDUsMjM2LjM1MjY2MSA1OTkuOTgxODczLDI1My4yMjAzNjcgQzYwMC40NDU1NTcsMjU2Ljk0NzU0MCA2MDAuOTUxMTExLDI2MC43MDQ0MzcgNjAwLjk1NjYwNCwyNjQuNDQ4MzY0IEM2MDEuMDIyNjQ0LDMwOS42MTM1MjUgNjAxLjA3NTgwNiwzNTQuNzc5MDIyIDYwMC45NTE3ODIsMzk5Ljk0MzkzOSBDNjAwLjkxMzE0Nyw0MTQuMDMyMzQ5IDYwMC42NjMyNjksNDI4LjE0MDEwNiA1OTkuNzgyMjg4LDQ0Mi4xOTMzNTkgQzU5OS41NDEwMTYsNDQ2LjA0MDg5NCA1OTcuNTYwNzkxLDQ1MC42MTU2MDEgNTk0Ljg1MzIxMCw0NTMuMzQxMzA5IEM1NzEuMTc3NTUxLDQ3Ny4xNzUzMjMgNTQ3LjE4MDcyNSw1MDAuNjkwNzk2IDUyMy4yMjc5NjYsNTI0LjI0ODc3OSBDNTA2Ljc5OTgzNSw1NDAuNDA2MTI4IDQ5MC4yMDk5OTEsNTU2LjM5OTkwMiA0NzMuODY0NTYzLDU3Mi42NDAxMzcgQzQ2OC44MDA4NDIsNTc3LjY3MTIwNCA0NjMuMDgyODg2LDU4MC4wNTQxOTkgNDU1Ljk3MDYxMiw1ODAuMDQzODIzIEM0MDAuOTcyNDQzLDU3OS45NjM1MDEgMzQ1Ljk3MzY2Myw1ODAuMTMyMDE5IDI5MC45NzYwNDQsNTc5LjkzNjc2OCBDMjY3LjU4MDQxNCw1NzkuODUzNjk5IDI0Ni41NTEyMDgsNTcyLjA0MzU3OSAyMjguOTM5NzQzLDU1Ni44Mjc1MTUgQzIxMi44NDk2MjUsNTQyLjkyNTg0MiAyMDIuNzUxOTY4LDUyNC45MDIxMDAgMTk4LjE1NjE1OCw1MDQuMDM5NjczIEMxOTcuMjgyMTk2LDUwMC4wNzIyOTYgMTk3LjA1MjQxNCw0OTUuODk1Mzg2IDE5Ny4wNDczMzMsNDkxLjgxNDQ4NCBDMTk2Ljk3ODE0OSw0MzYuMTQ5NjU4IDE5Ny4wNTA3MjAsMzgwLjQ4NDYxOSAxOTYuOTMyNjE3LDMyNC44MTk5NDYgQzE5Ni45MTkxNDQsMzE4LjQ3MDkxNyAxOTkuMTg0ODQ1LDMxMy40MTYxOTkgMjAzLjQ5NTU3NSwzMDkuMTAwNTI1IEMyNDAuNTg3OTk3LDI3MS45NjU0MjQgMjc3LjY4MjQ5NSwyMzQuODMyMzA2IDMxNC44MzQ1NjQsMTk3Ljc1Njk1OCBDMzIwLjk1NjQyMSwxOTEuNjQ3Nzk3IDMyNy4yNjQ0MzUsMTg1LjcxNTI1NiAzMzMuNjczOTIwLDE3OS45MDgwODEgQzMzNy4zNzYwMzgsMTc2LjU1MzgzMyAzNDEuNzIxNDY2LDE3NC44NTMzMTcgMzQ3LjAwNTc5OCwxNzQuOTEyODcyIEMzNjYuNTAxNzA5LDE3NS4xMzI2MTQgMzg2LjAwMTYxNywxNzUuMDAwMzIwIDQwNiwxNzUuMDAwNDEyIFogTTUwMy4zNDQ2NjYsMjczLjg0MDE0OSBDNTA0LjEwMjcyMiwyNzYuMTY3NTcyIDUwNC45NDA5NDgsMjc4LjIxMTA5MCA1MDQuOTQzMjY4LDI4MC4yNTU1MjQgQzUwNS4wMTI4NDgsMzQxLjc0MjI0OSA1MDQuOTY5MTQ3LDQwMy4yMjkwNjUgNTA1LjAzMDc5Miw0NjQuNzE1NzkwIEM1MDUuMDQwODAyLDQ3NC42ODY0OTMgNDk2LjExNzQ2Miw0ODMuOTUzMTg2IDQ4NS43Nzc5MjQsNDgzLjk2NTI3MSBDNDI0LjYyNDQ1MSw0ODQuMDM2ODk2IDM2My40NzA5MTcsNDg0LjAwMzIzNSAzMDIuMzE3MzgzLDQ4My45OTY3MzUgQzI5NS41ODc3NjksNDgzLjk5NjAzMyAyOTMuMDAxMjUxLDQ4MS4zMDE2MDUgMjkzLjAwMDkxNiw0NzQuMzM4NTYyIEMyOTIuOTk3ODY0LDQxMy4zNTE2NTQgMjkzLjIwOTYyNSwzNTIuMzYzMzEyIDI5Mi43ODA3MDEsMjkxLjM3OTM5NSBDMjkyLjcxMzUzMSwyODEuODI4MDk0IDMwMy4yMTMwNDMsMjcwLjgyNDE1OCAzMTMuNDc4MjcxLDI3MC44OTQzMTggQzM1MS45NjgyMDEsMjcxLjE1NzQ0MCAzOTAuNDYwOTk5LDI3MC45OTk3ODYgNDI4Ljk1MjcyOCwyNzAuOTk5Nzg2IEM0NTEuMTE0NjI0LDI3MC45OTk3ODYgNDczLjI3NzI4MywyNzAuOTE3NDgwIDQ5NS40Mzc0NjksMjcxLjExMjE1MiBDNDk3Ljk3NzAyMCwyNzEuMTM0NDkxIDUwMC41MDI5MzAsMjcyLjcwNDM3NiA1MDMuMzQ0NjY2LDI3My44NDAxNDkgWiI+PC9wYXRoPjwvc3ZnPgo=&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/obscura_sh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TWITTER%20%2F%20X-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="Obscura on Twitter/X" /></a>
-  <a href="https://cal.com/obscura/quick-chat"><img src="https://img.shields.io/badge/Book_a_Demo-1a1a1a?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a demo" /></a>
+  <a href="https://github.com/h4ckf0r0day/obscura/tree/main/docs"><img src="https://img.shields.io/badge/Docs-1a1a1a?style=for-the-badge" alt="Documentação" /></a>
+  <a href="https://obscura.sh"><img src="https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/obscura_sh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TWITTER%20%2F%20X-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="Obscura no Twitter/X" /></a>
+  <a href="https://cal.com/obscura/quick-chat"><img src="https://img.shields.io/badge/Agendar_Demo-1a1a1a?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agendar uma demonstração" /></a>
   <a href="https://github.com/h4ckf0r0day/obscura/releases"><img src="https://img.shields.io/badge/Releases-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Releases" /></a>
 </p>
 <p align="center">
-  <strong>The open-source headless browser for AI agents and web scraping.</strong><br>
-  Lightweight, stealthy, and built in Rust.
+  <strong>O navegador headless open source para agentes de IA e web scraping.</strong><br>
+  Leve, furtivo e construído em Rust.
 </p>
-<h3 align="center">Native rendering is here. No Chromium required. 🎉 </h3>
+<h3 align="center">A renderização nativa chegou. Sem necessidade de Chromium. 🎉 </h3>
 <p align="center">
-  Capture screenshots, screencast live pages, and export PDFs directly with Obscura.
+  Capture screenshots, faça screencast de páginas ao vivo e exporte PDFs diretamente com o Obscura.
 </p>
 
 ---
 
-Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright.
+O Obscura é um motor de navegador headless escrito em Rust, criado para web scraping e automação de agentes de IA. Ele executa JavaScript real via V8, suporta o Chrome DevTools Protocol e funciona como substituto direto do Chrome headless com Puppeteer e Playwright.
 
-### Why Obscura over headless Chrome?
+### Por que Obscura em vez do Chrome headless?
 
-| Metric       | Obscura      | Headless Chrome |
-|--------------|--------------|------------------|
-| Memory       | **30 MB**    | 200+ MB          |
-| Binary size  | **~70 MiB**  | 300+ MB          |
-| Anti-detect  | **Built-in** | None          |
-| Page load    | **85 ms**    | ~500 ms          |
-| Startup      | **Instant**  | ~2s              |
-| Puppeteer    | **Yes**      | Yes              |
-| Playwright   | **Yes**      | Yes              |
+| Métrica          | Obscura        | Chrome Headless |
+|------------------|----------------|-----------------|
+| Memória          | **30 MB**      | 200+ MB         |
+| Tamanho do binário | **~70 MiB**  | 300+ MB         |
+| Anti-detecção    | **Integrada**  | Nenhuma         |
+| Carregamento de página | **85 ms** | ~500 ms        |
+| Inicialização    | **Instantânea** | ~2s            |
+| Puppeteer        | **Sim**        | Sim             |
+| Playwright       | **Sim**        | Sim             |
 
 <table>
   <tr>
@@ -49,13 +49,13 @@ Obscura is a headless browser engine written in Rust, built for web scraping and
       </a>
     </td>
     <td>
-      <strong>Obscura inspired Cloudflare Kitesurf’s first prototype</strong>
+      <strong>O Obscura inspirou o primeiro protótipo do Kitesurf, da Cloudflare</strong>
       <br>
-      Cloudflare began by porting Obscura to Workers while developing its
-      new agent-first browser.
+      A Cloudflare começou portando o Obscura para o Workers enquanto desenvolvia seu
+      novo navegador voltado para agentes.
       <br>
       <a href="https://blog.cloudflare.com/kitesurf/">
-        Read Cloudflare’s engineering story →
+        Leia a história de engenharia da Cloudflare →
       </a>
     </td>
   </tr>
@@ -63,25 +63,25 @@ Obscura is a headless browser engine written in Rust, built for web scraping and
 
 ## Obscura Cloud
 
-We are working on **Obscura Cloud** the hosted version, with managed infrastructure, residential proxies, and dedicated support. For people who want the engine without operating it themselves.
+Estamos trabalhando no **Obscura Cloud**, a versão hospedada, com infraestrutura gerenciada, proxies residenciais e suporte dedicado. Para quem quer o motor sem precisar operá-lo por conta própria.
 
-The open-source engine stays Apache-2.0, fully featured. No feature gating, ever.
+O motor open source continua sob Apache-2.0, com todos os recursos. Sem bloqueio de funcionalidades, nunca.
 
-**[Get on the waitlist →](https://tally.so/r/gDWzdD)**
+**[Entre na lista de espera →](https://tally.so/r/gDWzdD)**
 <br>
-**[📅 Book a demo →](https://cal.com/obscura/quick-chat)**
+**[📅 Agende uma demonstração →](https://cal.com/obscura/quick-chat)**
 
-### Open Source Support
+### Apoio ao Open Source
 
 <a href="https://vercel.com/open-source-program">
   <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" />
 </a>
 
-## Sponsors
+## Patrocinadores
 
-**Obscura** is supported by organizations helping us build independent open-source browser infrastructure.
+O **Obscura** é apoiado por organizações que nos ajudam a construir uma infraestrutura de navegador open source independente.
 
-Want to sponsor? Email [hello@obscura.sh](mailto:hello@obscura.sh).
+Quer patrocinar? Envie um e-mail para [hello@obscura.sh](mailto:hello@obscura.sh).
 
 <table>
    <tr>
@@ -91,26 +91,26 @@ Want to sponsor? Email [hello@obscura.sh](mailto:hello@obscura.sh).
       </a>
     </td>
     <td valign="middle">
-      <a href="https://go.nodemaven.com/obscurareadmeoctober" target="_blank"><b>NodeMaven</b></a>: The most efficient proxy provider for Web Scraping and Automation with the Highest Quality IP on the market.<br><br>
-      <b>Why <a href="https://go.nodemaven.com/obscurareadmeoctober" target="_blank">NodeMaven</a>?</b><br>
-      ZIP targeting<br>
-      99.9% uptime<br>
-      IP filtering: all proxies have fraud score &lt;97%<br>
-      No KYC required<br>
-      Check Nodemaven's new GitHub for more web scraping and automation solutions - https://github.com/nodemaven<br>
-      Unique free tools: Proxy Bandwidth Checker, Meta Tag Checker, IP Lookup and others!<br><br>
-      🎁 <b>Special codes for Obscura users:</b><br>
-      <b>OBSCURA35</b> - 35% off to Mobile and Residential Proxies<br>
-      <b>OBSCURA40</b> - 40% off to ISP (Static) Proxies <br>
-      <b>OBSCURA2X</b> - 2X traffic for Black Friday
+      <a href="https://go.nodemaven.com/obscurareadmeoctober" target="_blank"><b>NodeMaven</b></a>: O provedor de proxies mais eficiente para Web Scraping e Automação, com IPs da mais alta qualidade do mercado.<br><br>
+      <b>Por que <a href="https://go.nodemaven.com/obscurareadmeoctober" target="_blank">NodeMaven</a>?</b><br>
+      Segmentação por CEP (ZIP)<br>
+      99,9% de uptime<br>
+      Filtragem de IPs: todos os proxies têm fraud score &lt;97%<br>
+      Sem necessidade de KYC<br>
+      Confira o novo GitHub da NodeMaven para mais soluções de web scraping e automação - https://github.com/nodemaven<br>
+      Ferramentas gratuitas exclusivas: Proxy Bandwidth Checker, Meta Tag Checker, IP Lookup e outras!<br><br>
+      🎁 <b>Códigos especiais para usuários do Obscura:</b><br>
+      <b>OBSCURA35</b> - 35% de desconto em Proxies Móveis e Residenciais<br>
+      <b>OBSCURA40</b> - 40% de desconto em Proxies ISP (Estáticos) <br>
+      <b>OBSCURA2X</b> - 2X de tráfego na Black Friday
     </td>
 </table>
 
-## Install
+## Instalação
 
 ### Download
 
-Grab the latest binary from [Releases](https://github.com/h4ckf0r0day/obscura/releases):
+Baixe o binário mais recente em [Releases](https://github.com/h4ckf0r0day/obscura/releases):
 
 ```bash
 # Linux x86_64
@@ -136,38 +136,38 @@ tar xzf obscura-x86_64-macos.tar.gz
 
 ### Windows
 
-x86_64 Windows only (no 32-bit build).
+Somente Windows x86_64 (sem build de 32 bits).
 
-Download `obscura-x86_64-windows.zip` from
+Baixe `obscura-x86_64-windows.zip` em
 [Releases](https://github.com/h4ckf0r0day/obscura/releases),
-extract it, and add the folder to your PATH. Keep the bundled runtime DLLs beside
-both executables. No C++ build tools are required.
+extraia e adicione a pasta ao seu PATH. Mantenha as DLLs de runtime incluídas ao lado
+dos dois executáveis. Não são necessárias ferramentas de build C++.
 
-Alternatively, with [Scoop](https://scoop.sh/) installed:
+Como alternativa, com o [Scoop](https://scoop.sh/) instalado:
 
 ```powershell
-# Direct manifest install (available once this change merges to main):
+# Instalação direta pelo manifesto (disponível assim que esta mudança for mesclada na main):
 scoop install https://raw.githubusercontent.com/h4ckf0r0day/obscura/main/scoop/obscura.json
 ```
 
-No Chrome, no Node.js, no dependencies. Release archives include both
-`obscura` and `obscura-worker`: manual zip installs should keep both in
-the same directory for the parallel `scrape` command; scoop handles
-placement automatically (both binaries land in the app dir with shims
-on PATH).
+Sem Chrome, sem Node.js, sem dependências. Os arquivos de release incluem tanto
+`obscura` quanto `obscura-worker`: em instalações manuais via zip, mantenha ambos no
+mesmo diretório para o comando `scrape` paralelo; o Scoop cuida do posicionamento
+automaticamente (ambos os binários ficam no diretório do app, com shims
+no PATH).
 
-| Archive suffix | Rendering | Stealth transport |
-|----------------|-----------|-------------------|
-| none | Yes | No |
-| `-stealth` | Yes | Yes |
-| `-no-render` | No | No |
-| `-no-render-stealth` | No | Yes |
+| Sufixo do arquivo | Renderização | Transporte stealth |
+|-------------------|--------------|--------------------|
+| nenhum | Sim | Não |
+| `-stealth` | Sim | Sim |
+| `-no-render` | Não | Não |
+| `-no-render-stealth` | Não | Sim |
 
-The scoop install pulls the default variant (rendering, no stealth). For
-stealth on Windows, download the `-stealth` archive manually.
+A instalação via Scoop baixa a variante padrão (com renderização, sem stealth). Para
+usar stealth no Windows, baixe manualmente o arquivo `-stealth`.
 
-Linux release builds target Ubuntu 22.04 so the downloaded binary remains
-usable on common LTS servers with glibc 2.35+.
+Os builds de release para Linux têm como alvo o Ubuntu 22.04, para que o binário baixado continue
+utilizável em servidores LTS comuns com glibc 2.35+.
 
 ### Docker
 
@@ -178,100 +178,100 @@ docker run -d --name obscura -p 127.0.0.1:9222:9222 \
   h4ckf0r0day/obscura
 ```
 
-Image on [Docker Hub](https://hub.docker.com/r/h4ckf0r0day/obscura). Multi-stage build on `distroless/cc:nonroot` — no shell, no package manager, runs as uid 65532, ~57 MB compressed. A mounted `--storage-dir` must be writable by uid 65532. Publish to host loopback as above; `-p 9222:9222` exposes the port on every interface.
+Imagem no [Docker Hub](https://hub.docker.com/r/h4ckf0r0day/obscura). Build multi-stage sobre `distroless/cc:nonroot` — sem shell, sem gerenciador de pacotes, executa como uid 65532, ~57 MB compactada. Um `--storage-dir` montado deve ter permissão de escrita para o uid 65532. Publique no loopback do host, como acima; `-p 9222:9222` expõe a porta em todas as interfaces.
 
-### Build from source
+### Compilar a partir do código-fonte
 
 ```bash
 git clone https://github.com/h4ckf0r0day/obscura.git
 cd obscura
 
-# Rendering
+# Com renderização
 cargo build --release -p obscura-cli --bins --features render
 
-# Rendering and stealth
+# Com renderização e stealth
 cargo build --release -p obscura-cli --bins --features render,stealth
 
-# No rendering
+# Sem renderização
 cargo build --release -p obscura-cli --bins --no-default-features
 
-# No rendering, with stealth
+# Sem renderização, com stealth
 cargo build --release -p obscura-cli --bins --no-default-features --features stealth
 ```
 
-Requires current stable Rust ([rustup.rs](https://rustup.rs)). First build takes ~5 min (V8 compiles from source, cached after).
-The stealth build also compiles BoringSSL and generates bindings, so it needs
-CMake, Clang, and the libclang/LLVM development libraries. On Ubuntu/Debian:
+Requer o Rust estável mais recente ([rustup.rs](https://rustup.rs)). O primeiro build leva ~5 min (o V8 é compilado a partir do código-fonte e fica em cache depois).
+O build com stealth também compila o BoringSSL e gera bindings, portanto precisa de
+CMake, Clang e as bibliotecas de desenvolvimento libclang/LLVM. No Ubuntu/Debian:
 
 ```bash
 sudo apt-get install build-essential cmake clang libclang-dev llvm-dev
 ```
 
-The rendering build uses rustls. The rendering-and-stealth build uses
-wreq/BoringSSL and therefore needs the additional build tools above.
+O build com renderização usa rustls. O build com renderização e stealth usa
+wreq/BoringSSL e, por isso, precisa das ferramentas de build adicionais acima.
 
-## Quick Start
+## Início Rápido
 
-### Fetch a page
+### Buscar uma página
 
 ```bash
-# Get the page title
+# Obter o título da página
 obscura fetch https://example.com --eval "document.title"
 
-# Extract all links
+# Extrair todos os links
 obscura fetch https://example.com --dump links
 
-# Render JavaScript and dump HTML
+# Renderizar JavaScript e exportar o HTML
 obscura fetch https://news.ycombinator.com --dump html
 
-# Write dump or eval output to a file
+# Gravar a saída do dump ou do eval em um arquivo
 obscura fetch https://example.com --dump text --output page.txt
 
-# Stream the raw response body verbatim (binary-safe; bypasses the JS/DOM layer).
-# Use this for images, JSON, JS, CSS, or any non-HTML resource.
+# Transmitir o corpo bruto da resposta sem alterações (seguro para binários; ignora a camada JS/DOM).
+# Use para imagens, JSON, JS, CSS ou qualquer recurso que não seja HTML.
 obscura fetch https://picsum.photos/200/300 --dump original > photo.jpg
 
-# List every sub-resource URL the page would fetch (NDJSON; one record per asset)
+# Listar a URL de cada sub-recurso que a página buscaria (NDJSON; um registro por recurso)
 obscura fetch https://example.com --dump assets
 
-# Fetch through an HTTP or SOCKS proxy
+# Buscar através de um proxy HTTP ou SOCKS
 obscura --proxy socks5://127.0.0.1:1080 fetch https://example.com --dump text
 
-# Wait for dynamic content
+# Aguardar conteúdo dinâmico
 obscura fetch https://example.com --wait-until networkidle0
 
-# Bound navigation time for slow or broken pages
+# Limitar o tempo de navegação para páginas lentas ou quebradas
 obscura fetch https://example.com --timeout 10
 
-# Capture the settled page as PNG
+# Capturar a página já estabilizada como PNG
 obscura fetch https://example.com --screenshot page.png
 
-# The screenshot flag also has a short form
+# A flag de screenshot também tem uma forma curta
 obscura fetch https://example.com -s page.png
 ```
 
-### Testing against localhost / LAN dev servers
+### Testando com servidores de desenvolvimento em localhost / LAN
 
-Obscura blocks fetches to private/internal IPs by default (SSRF protection).
-To point it at a local dev server, pass `--allow-private-network` (or set
+Por padrão, o Obscura bloqueia requisições para IPs privados/internos (proteção contra SSRF).
+Para apontá-lo para um servidor de desenvolvimento local, passe `--allow-private-network` (ou defina
 `OBSCURA_ALLOW_PRIVATE_NETWORK=1`):
 
 ```bash
 obscura fetch http://127.0.0.1:3000 --allow-private-network --dump text
 
-# Works on any subcommand, e.g. the CDP server for local Puppeteer/Playwright:
+# Funciona em qualquer subcomando, por exemplo, o servidor CDP para Puppeteer/Playwright local:
 obscura serve --port 9222 --allow-private-network
 ```
 
-See [docs/Environment-variables.md](docs/Environment-variables.md) for the
-full allow/deny rules (DNS-resolution-time checks included).
+Consulte [docs/Environment-variables.md](docs/Environment-variables.md) para as
+regras completas de permissão/bloqueio (incluindo as verificações no momento da resolução de DNS).
 
-## Rendering
+## Renderização
 
-Official release archives and the Docker image include the rendering engine.
-It provides CSS layout and paint, viewport and full-page screenshots,
-scroll-aware fixed and sticky geometry, activity-driven CDP screencasting, and
-raster PDF export without starting Chromium.
+Os arquivos oficiais de release e a imagem Docker incluem o motor de renderização.
+Ele oferece layout e pintura de CSS, screenshots da viewport e da página inteira,
+geometria fixed e sticky com suporte a scroll, screencast CDP orientado por atividade e
+exportação de PDF raster sem iniciar o Chromium.
 
 ```javascript
 await page.setViewport({ width: 1440, height: 1000 });
@@ -280,25 +280,25 @@ await page.screenshot({ path: 'page.png', fullPage: true });
 await page.pdf({ path: 'page.pdf', format: 'A4', printBackground: true });
 ```
 
-The current implementation covers block, inline, flex, grid, table, float,
-positioning, overflow, transform, text, image, SVG, canvas, background, border,
-and animation paths. It remains an evolving independent
-engine: long-tail CSS, some Web APIs, media playback, compositor effects, and
-platform font rasterization may differ from Chromium. The existing
+A implementação atual cobre os caminhos de block, inline, flex, grid, table, float,
+positioning, overflow, transform, texto, imagem, SVG, canvas, background, border
+e animação. Ela continua sendo um motor independente em evolução: CSS de cauda longa,
+algumas Web APIs, reprodução de mídia, efeitos de compositor e a rasterização de fontes
+da plataforma podem diferir do Chromium. Os guias existentes de
 [Puppeteer](docs/Use-with-Puppeteer.md),
-[Playwright](docs/Use-with-Playwright.md), and
-[MCP](docs/Use-the-MCP-server.md) guides cover their capture APIs and limits.
+[Playwright](docs/Use-with-Playwright.md) e
+[MCP](docs/Use-the-MCP-server.md) cobrem suas APIs de captura e limitações.
 
-### Start the CDP server
+### Iniciar o servidor CDP
 
 ```bash
 obscura serve --port 9222
 
-# With stealth mode (anti-detection + tracker blocking)
+# Com modo stealth (anti-detecção + bloqueio de trackers)
 obscura serve --port 9222 --stealth
 ```
 
-### Scrape in parallel
+### Scraping em paralelo
 
 ```bash
 obscura scrape url1 url2 url3 ... \
@@ -306,16 +306,16 @@ obscura scrape url1 url2 url3 ... \
   --eval "document.querySelector('h1').textContent" \
   --format json
 
-# Suppress scrape progress on stderr for script-friendly output
+# Suprimir o progresso do scrape no stderr para uma saída amigável a scripts
 obscura scrape https://example.com --quiet --format json
 
-# Scrape workers inherit the global proxy
+# Os workers do scrape herdam o proxy global
 obscura --proxy http://127.0.0.1:8080 scrape https://example.com https://news.ycombinator.com
 ```
 
 ## Puppeteer / Playwright
 
-[Media preference emulation](docs/CDP-media.md) covers color-scheme and reduced-motion overrides.
+A [emulação de preferências de mídia](docs/CDP-media.md) cobre as sobreposições de esquema de cores e de movimento reduzido.
 
 ### Puppeteer
 
@@ -362,7 +362,7 @@ console.log(await page.title());
 await browser.close();
 ```
 
-### Form submission & login
+### Envio de formulários e login
 
 ```javascript
 await page.goto('https://quotes.toscrape.com/login');
@@ -371,178 +371,179 @@ await page.evaluate(() => {
   document.querySelector('#password').value = 'admin';
   document.querySelector('form').submit();
 });
-// Obscura handles the POST, follows the 302 redirect, maintains cookies
+// O Obscura cuida do POST, segue o redirecionamento 302 e mantém os cookies
 ```
 
 ## Benchmarks
 
-Page load:
+Carregamento de página:
 
-| Page | Obscura | Chrome |
-|------|---------|--------|
-| Static HTML | **51 ms** | ~500 ms |
+| Página | Obscura | Chrome |
+|--------|---------|--------|
+| HTML estático | **51 ms** | ~500 ms |
 | JS + XHR + fetch | **84 ms** | ~800 ms |
-| Dynamic scripts | **78 ms** | ~700 ms |
+| Scripts dinâmicos | **78 ms** | ~700 ms |
 
-The full benchmark suite (WPT conformance, obstacle course, real-world corpus, and vs-Chrome speed) lives in a separate repo: https://github.com/h4ckf0r0day/obscura-benchmark
+A suíte completa de benchmarks (conformidade WPT, obstacle course, corpus do mundo real e velocidade vs. Chrome) fica em um repositório separado: https://github.com/h4ckf0r0day/obscura-benchmark
 
-## Stealth Mode
+## Modo Stealth
 
-Build with `--features render,stealth`, then enable stealth at runtime with the
-global `--stealth` flag. The stealth build includes the complete rendering
-engine; enabling stealth does not remove screenshot, screencast, PDF, CDP, or
-MCP functionality.
+Compile com `--features render,stealth` e depois ative o stealth em tempo de execução com a
+flag global `--stealth`. O build com stealth inclui o motor de renderização completo;
+ativar o stealth não remove as funcionalidades de screenshot, screencast, PDF, CDP ou
+MCP.
 
 ### Anti-fingerprinting
-- Per-session fingerprint randomization (GPU, screen, canvas, audio, battery)
-- Realistic `navigator.userAgentData` (Chrome 145, high-entropy values)
-- `event.isTrusted = true` for dispatched events
-- Hidden internal properties (`Object.keys(window)` safe)
-- Native function masking (`Function.prototype.toString()` → `[native code]`)
+- Randomização de fingerprint por sessão (GPU, tela, canvas, áudio, bateria)
+- `navigator.userAgentData` realista (Chrome 145, valores de alta entropia)
+- `event.isTrusted = true` para eventos disparados
+- Propriedades internas ocultas (`Object.keys(window)` seguro)
+- Mascaramento de funções nativas (`Function.prototype.toString()` → `[native code]`)
 - `navigator.webdriver = false`
 
-### Tracker Blocking
-- 3,520 domains blocked
-- Blocks analytics, ads, telemetry, and fingerprinting scripts
-- Prevents trackers from loading entirely
-- Enabled automatically with `--stealth`
+### Bloqueio de Trackers
+- 3.520 domínios bloqueados
+- Bloqueia scripts de analytics, anúncios, telemetria e fingerprinting
+- Impede que os trackers sejam carregados
+- Ativado automaticamente com `--stealth`
 
-## CDP API
+## API CDP
 
-Obscura implements the Chrome DevTools Protocol for Puppeteer/Playwright compatibility.
+O Obscura implementa o Chrome DevTools Protocol para compatibilidade com Puppeteer/Playwright.
 
-| Domain | Methods |
-|--------|---------|
+| Domínio | Métodos |
+|---------|---------|
 | **Target** | createTarget, closeTarget, attachToTarget, createBrowserContext, disposeBrowserContext |
 | **Page** | navigate, getFrameTree, lifecycleEvents, captureScreenshot, start/stopScreencast, printToPDF |
 | **Runtime** | evaluate, callFunctionOn, getProperties, addBinding |
 | **DOM** | getDocument, querySelector, querySelectorAll, getOuterHTML, resolveNode |
 | **Network** | enable, setCookies, getCookies, setExtraHTTPHeaders, setUserAgentOverride |
-| **Fetch** | enable, continueRequest, fulfillRequest, failRequest (live interception), takeResponseBodyAsStream |
-| **IO** | read, close (stream a large response body in chunks) |
+| **Fetch** | enable, continueRequest, fulfillRequest, failRequest (interceptação ao vivo), takeResponseBodyAsStream |
+| **IO** | read, close (transmite o corpo de uma resposta grande em blocos) |
 | **Storage** | getCookies, setCookies, deleteCookies |
 | **Input** | dispatchMouseEvent, dispatchKeyEvent |
-| **LP** | getMarkdown (DOM-to-Markdown conversion) |
+| **LP** | getMarkdown (conversão de DOM para Markdown) |
 
-Fetch interception pauses matching main-document HTTP requests before transport. Fulfillment supplies the document body without contacting the server; continuation URL, method, body, and header overrides apply to that request only.
+A interceptação via Fetch pausa as requisições HTTP do documento principal que correspondem ao filtro, antes do transporte. O fulfillment fornece o corpo do documento sem contatar o servidor; as substituições de URL, método, corpo e cabeçalhos na continuação se aplicam somente a essa requisição.
 
-To download a large resource without one giant `Network.getResponseBody` blob, call `Fetch.takeResponseBodyAsStream` then read it in chunks with `IO.read` / `IO.close`. Response bodies over the cache limit (`OBSCURA_NETWORK_BODY_BUFFER_BYTES`, default 2 MiB) are not retained, so raise that limit when you intend to stream large downloads.
-## CLI Reference
+Para baixar um recurso grande sem um único blob gigante de `Network.getResponseBody`, chame `Fetch.takeResponseBodyAsStream` e depois leia em blocos com `IO.read` / `IO.close`. Corpos de resposta acima do limite de cache (`OBSCURA_NETWORK_BODY_BUFFER_BYTES`, padrão 2 MiB) não são retidos; portanto, aumente esse limite quando pretender transmitir downloads grandes.
 
-### Tuning V8
+## Referência da CLI
 
-Obscura embeds V8 directly. Use `--v8-flags` to pass raw flags through to V8, same syntax as Chromium's `--js-flags` and Node's command-line flags. Most common use is raising the heap cap to fix `JavaScript heap out of memory` on JS-heavy pages:
+### Ajustando o V8
+
+O Obscura embute o V8 diretamente. Use `--v8-flags` para repassar flags brutas ao V8, com a mesma sintaxe do `--js-flags` do Chromium e das flags de linha de comando do Node. O uso mais comum é aumentar o limite de heap para corrigir `JavaScript heap out of memory` em páginas com muito JS:
 
 ```bash
 obscura --v8-flags "--max-old-space-size=4096" fetch https://example.com
 ```
 
-### Heavy SPAs (script execution budget)
+### SPAs pesadas (orçamento de execução de scripts)
 
-Obscura caps the page's script-execution phase so one slow or hung page cannot stall a worker. The default budget is 30s; pages that finish sooner return immediately, so the cap only affects pages that keep running. A very heavy React/Vue/Angular SPA on a slow network can need more time to boot before it fires its data requests. Raise the budget with `OBSCURA_SCRIPT_DEADLINE_MS` (milliseconds), and pair it with a matching navigation timeout in your CDP client:
+O Obscura limita a fase de execução de scripts da página para que uma página lenta ou travada não paralise um worker. O orçamento padrão é de 30s; páginas que terminam antes retornam imediatamente, então o limite só afeta páginas que continuam executando. Uma SPA React/Vue/Angular muito pesada em uma rede lenta pode precisar de mais tempo para inicializar antes de disparar suas requisições de dados. Aumente o orçamento com `OBSCURA_SCRIPT_DEADLINE_MS` (em milissegundos) e combine com um timeout de navegação equivalente no seu cliente CDP:
 
 ```bash
 OBSCURA_SCRIPT_DEADLINE_MS=60000 obscura serve --port 9222
 ```
 
-Modules that enhance an already-rendered page have a separate 3s per-module budget so one non-essential module cannot hold navigation open. Raise it for legitimate long-running modules such as a Vite HMR client:
+Módulos que complementam uma página já renderizada têm um orçamento separado de 3s por módulo, para que um módulo não essencial não mantenha a navegação aberta. Aumente-o para módulos legítimos de longa duração, como um cliente HMR do Vite:
 
 ```bash
 OBSCURA_MODULE_BUDGET_MS=10000 obscura serve --port 9222
 ```
 
-An unmounted SPA shell already gives its app modules the full `OBSCURA_SCRIPT_DEADLINE_MS` budget. `OBSCURA_FETCH_TIMEOUT_MS` controls the module's network request, not its evaluation time. See [Environment variables](docs/Environment-variables.md) for the complete timeout model.
+Um shell de SPA não montado já concede aos módulos do app o orçamento completo de `OBSCURA_SCRIPT_DEADLINE_MS`. `OBSCURA_FETCH_TIMEOUT_MS` controla a requisição de rede do módulo, não o tempo de avaliação. Consulte [Variáveis de ambiente](docs/Environment-variables.md) para o modelo completo de timeouts.
 
 ### `obscura serve`
 
-Start a CDP WebSocket server.
+Inicia um servidor WebSocket CDP.
 
-| Flag | Default | Description |
-|------|---------|-------------|
-| `--port` | `9222` | WebSocket port |
-| `--proxy` | — | HTTP/SOCKS5 proxy URL |
-| `--stealth` | off | Enable anti-detection + tracker blocking |
-| `--workers` | `1` | Number of parallel worker processes |
-| `--worker-max-connections` | off | Recycle a worker after N CDP connections (needs `--workers` > 1) |
-| `--worker-max-rss` | off | Recycle a worker above this many MB resident (Linux) |
-| `--worker-max-age` | off | Recycle a worker after this many seconds |
-| `--worker-drain-timeout` | `120` | Seconds a replaced worker may finish its live connections before it is killed |
-| `--font-dir` | — | Recursively load fonts once per worker (repeatable; render build) |
-| `--obey-robots` | off | Respect robots.txt |
+| Flag | Padrão | Descrição |
+|------|--------|-----------|
+| `--port` | `9222` | Porta do WebSocket |
+| `--proxy` | — | URL de proxy HTTP/SOCKS5 |
+| `--stealth` | desativado | Ativa anti-detecção + bloqueio de trackers |
+| `--workers` | `1` | Número de processos worker paralelos |
+| `--worker-max-connections` | desativado | Recicla um worker após N conexões CDP (requer `--workers` > 1) |
+| `--worker-max-rss` | desativado | Recicla um worker acima desta quantidade de MB residentes (Linux) |
+| `--worker-max-age` | desativado | Recicla um worker após este número de segundos |
+| `--worker-drain-timeout` | `120` | Segundos que um worker substituído pode usar para concluir suas conexões ativas antes de ser encerrado |
+| `--font-dir` | — | Carrega fontes recursivamente uma vez por worker (repetível; build com renderização) |
+| `--obey-robots` | desativado | Respeita o robots.txt |
 
-With multiple workers, exited children are reaped and restarted. New connections
-use ready workers only; if none are ready, the balancer returns HTTP 503. A crash
-still closes that worker's existing sessions, which clients must reconnect.
+Com múltiplos workers, os processos filhos que saem são recolhidos e reiniciados. Novas conexões
+usam apenas workers prontos; se nenhum estiver pronto, o balanceador retorna HTTP 503. Uma falha
+ainda encerra as sessões existentes daquele worker, e os clientes precisam se reconectar.
 
-The `--worker-max-*` options recycle workers gracefully: a replacement starts
-first, new connections go only to it, and the old worker keeps serving the
-connections it already has until they close (or the drain timeout passes), then
-exits. Each recycle is logged with its reason.
-Worker errors remain visible on stderr.
+As opções `--worker-max-*` reciclam workers de forma graciosa: uma substituição é iniciada
+primeiro, as novas conexões vão apenas para ela, e o worker antigo continua atendendo as
+conexões que já possui até que sejam fechadas (ou o tempo de drenagem expire), e então
+encerra. Cada reciclagem é registrada em log com o motivo.
+Os erros dos workers continuam visíveis no stderr.
 
 ### `obscura fetch <URL>`
 
-Fetch and render a single page.
+Busca e renderiza uma única página.
 
-| Flag | Default | Description |
-|------|---------|-------------|
-| `--dump` | `html` | Output: `html`, `text`, `links`, `markdown`, `assets` (NDJSON of every sub-resource URL the page references), or `original` (raw response body) |
-| `--eval` | — | JavaScript expression to evaluate |
-| `--wait-until` | `load` | Wait: `load`, `domcontentloaded`, `networkidle0`. Network idle counts normal and stealth requests and requires a 500 ms quiet window within `--timeout`; an expired deadline is an error. |
-| `--timeout` | `30` | Maximum navigation time in seconds |
-| `--wait` | adaptive, up to `5` | Post-load settling; an explicit value is a fixed delay in seconds |
-| `--selector` | — | Wait for CSS selector |
-| `-s`, `--screenshot` | — | Write a PNG screenshot (single URL; render-enabled build) |
-| `--stealth` | off | Anti-detection mode |
-| `--output` | — | Write dump or eval output to a file |
-| `--quiet` | off | Suppress banner |
-| `--proxy` | — | Inherited global HTTP/SOCKS5 proxy URL |
+| Flag | Padrão | Descrição |
+|------|--------|-----------|
+| `--dump` | `html` | Saída: `html`, `text`, `links`, `markdown`, `assets` (NDJSON de cada URL de sub-recurso referenciada pela página) ou `original` (corpo bruto da resposta) |
+| `--eval` | — | Expressão JavaScript a ser avaliada |
+| `--wait-until` | `load` | Espera: `load`, `domcontentloaded`, `networkidle0`. O network idle conta requisições normais e stealth e exige uma janela de 500 ms de silêncio dentro de `--timeout`; um prazo expirado é um erro. |
+| `--timeout` | `30` | Tempo máximo de navegação em segundos |
+| `--wait` | adaptativo, até `5` | Estabilização pós-carregamento; um valor explícito é um atraso fixo em segundos |
+| `--selector` | — | Aguarda por um seletor CSS |
+| `-s`, `--screenshot` | — | Grava um screenshot PNG (URL única; build com renderização) |
+| `--stealth` | desativado | Modo anti-detecção |
+| `--output` | — | Grava a saída do dump ou do eval em um arquivo |
+| `--quiet` | desativado | Suprime o banner |
+| `--proxy` | — | URL de proxy HTTP/SOCKS5 global herdada |
 
 ### `obscura scrape <URL...>`
 
-Scrape multiple URLs in parallel with worker processes.
+Faz scraping de várias URLs em paralelo com processos worker.
 
-`scrape` and `fetch --file ... --dump original` keep at most `--concurrency`
-jobs active, starting the next URL as soon as a slot becomes available. Results
-remain in input order. URL input and completed results are still held in memory.
+`scrape` e `fetch --file ... --dump original` mantêm no máximo `--concurrency`
+jobs ativos, iniciando a próxima URL assim que uma vaga fica disponível. Os resultados
+permanecem na ordem de entrada. A entrada de URLs e os resultados concluídos ainda são mantidos na memória.
 
-| Flag | Default | Description |
-|------|---------|-------------|
-| `--concurrency` | `10` | Parallel workers |
-| `--eval` | — | JS expression per page |
-| `--format` | `json` | Output: `json` or `text` |
-| `--quiet` | off | Suppress scrape progress on stderr |
-| `--proxy` | — | Inherited global HTTP/SOCKS5 proxy URL for all workers |
+| Flag | Padrão | Descrição |
+|------|--------|-----------|
+| `--concurrency` | `10` | Workers paralelos |
+| `--eval` | — | Expressão JS por página |
+| `--format` | `json` | Saída: `json` ou `text` |
+| `--quiet` | desativado | Suprime o progresso do scrape no stderr |
+| `--proxy` | — | URL de proxy HTTP/SOCKS5 global herdada para todos os workers |
 
 ## MCP (Model Context Protocol)
 
-Obscura ships an MCP server that exposes browser automation tools to AI agents (Claude Desktop, Cursor, etc.).
+O Obscura inclui um servidor MCP que expõe ferramentas de automação de navegador para agentes de IA (Claude Desktop, Cursor etc.).
 
-### Start
+### Iniciar
 
-**stdio** (default) — for Claude Desktop and MCP clients that launch a subprocess:
+**stdio** (padrão) — para o Claude Desktop e clientes MCP que iniciam um subprocesso:
 
 ```bash
 obscura mcp
 ```
 
-**HTTP** — for clients that connect over the network:
+**HTTP** — para clientes que se conectam pela rede:
 
 ```bash
 obscura mcp --http --port 8080
 # endpoint: http://127.0.0.1:8080/mcp
 ```
 
-Optional flags (both transports):
+Flags opcionais (ambos os transportes):
 
-| Flag | Description |
-|------|-------------|
-| `--proxy <URL>` | HTTP/SOCKS5 proxy |
-| `--user-agent <UA>` | Custom User-Agent string |
-| `--font-dir <DIR>` | Load additional fonts before rendering (repeatable; render build) |
-| `--stealth` | Enable anti-detection mode |
+| Flag | Descrição |
+|------|-----------|
+| `--proxy <URL>` | Proxy HTTP/SOCKS5 |
+| `--user-agent <UA>` | String de User-Agent personalizada |
+| `--font-dir <DIR>` | Carrega fontes adicionais antes de renderizar (repetível; build com renderização) |
+| `--stealth` | Ativa o modo anti-detecção |
 
-### Claude Desktop config
+### Configuração do Claude Desktop
 
 ```json
 {
@@ -555,33 +556,33 @@ Optional flags (both transports):
 }
 ```
 
-### Tools
+### Ferramentas
 
-| Tool | Description |
-|------|-------------|
-| `browser_navigate` | Navigate to a URL (`url`, optional `waitUntil`: `load` / `domcontentloaded` / `networkidle0`) |
-| `browser_snapshot` | Return the current page URL, title, readable body text, and element references |
-| `browser_screenshot` | Return the current page as an MCP PNG image (render-enabled build) |
-| `browser_pdf` | Return the current page as an embedded PDF resource (render-enabled build) |
-| `browser_click` | Click by current snapshot reference or CSS selector |
-| `browser_fill` | Set an input value by reference or selector (triggers `input` + `change`) |
-| `browser_type` | Append text to an input |
-| `browser_press_key` | Dispatch a keyboard event (`key`, optional `selector`) |
-| `browser_select_option` | Select an `<option>` by value or text |
-| `browser_evaluate` | Evaluate a JavaScript expression and return the result |
-| `browser_wait_for` | Wait for a CSS selector to appear (`selector`, optional `timeout` in seconds) |
-| `browser_network_requests` | List network requests made by the current page |
-| `browser_console_messages` | Return console messages logged by the page |
-| `browser_close` | Close the page and reset browser state |
+| Ferramenta | Descrição |
+|------------|-----------|
+| `browser_navigate` | Navega para uma URL (`url`, `waitUntil` opcional: `load` / `domcontentloaded` / `networkidle0`) |
+| `browser_snapshot` | Retorna a URL atual da página, o título, o texto legível do corpo e as referências de elementos |
+| `browser_screenshot` | Retorna a página atual como uma imagem PNG do MCP (build com renderização) |
+| `browser_pdf` | Retorna a página atual como um recurso PDF embutido (build com renderização) |
+| `browser_click` | Clica por referência do snapshot atual ou seletor CSS |
+| `browser_fill` | Define o valor de um input por referência ou seletor (dispara `input` + `change`) |
+| `browser_type` | Acrescenta texto a um input |
+| `browser_press_key` | Dispara um evento de teclado (`key`, `selector` opcional) |
+| `browser_select_option` | Seleciona uma `<option>` por valor ou texto |
+| `browser_evaluate` | Avalia uma expressão JavaScript e retorna o resultado |
+| `browser_wait_for` | Aguarda um seletor CSS aparecer (`selector`, `timeout` opcional em segundos) |
+| `browser_network_requests` | Lista as requisições de rede feitas pela página atual |
+| `browser_console_messages` | Retorna as mensagens de console registradas pela página |
+| `browser_close` | Fecha a página e reinicia o estado do navegador |
 
-The MCP server exposes still-image and PDF output. Use CDP when you need the
-streaming `Page.startScreencast` protocol.
+O servidor MCP expõe saída de imagem estática e PDF. Use o CDP quando precisar do
+protocolo de streaming `Page.startScreencast`.
 
-## Integrations
+## Integrações
 
-- **[Hermes agent plugin](https://github.com/SGavrl/hermes-plugin-obscura)**: run [Hermes](https://github.com/NousResearch/hermes-agent) agent browser tasks on Obscura. The plugin spawns `obscura serve` per session (or connects to an already running server) and drives it over CDP, with optional `--stealth`.
+- **[Plugin para o agente Hermes](https://github.com/SGavrl/hermes-plugin-obscura)**: execute tarefas de navegador do agente [Hermes](https://github.com/NousResearch/hermes-agent) no Obscura. O plugin inicia `obscura serve` por sessão (ou se conecta a um servidor já em execução) e o controla via CDP, com `--stealth` opcional.
 
-## License
+## Licença
 
 Apache 2.0
 
